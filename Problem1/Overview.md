@@ -92,3 +92,5 @@ print(total)
 This code does three sums and a mod operation per number in the range.  This seems better.
 
 I do wonder why 2,1,3,1,2,3,3 though.
+
+Looking at space complexity I like this approach better as well.  The brute force algorithm uses constant space, that middle thing uses a couple sets, so we get to O(n).  The last one uses a small array, so back to O(1).
