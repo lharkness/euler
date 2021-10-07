@@ -123,9 +123,13 @@ Chris posts:
 > Deduce the following identity:
 > 1+2+...+n = (n/2)(n+1)
 
-> From which it follows that (the above question for numbers less than 10)
+> From which it follows that:
+> 
+> (the above question for numbers less than 10)
 > 3(1+2+3) + 5(1) = 23
+> 
 > (less than 100)
 > 3(1+2+...+33) + 5(1+2+...+19)
+> 
 > (less than 1000)
 > 3(1+2+...+333) + 5(1+2+...+199) = 3 (333/2)(334) + 5(199/2)(200) = 266,333
